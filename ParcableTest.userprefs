@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{39FFD537-96EF-4736-AC3E-29128128D553}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParcableTest/Dialogs/SearchableListDialog.cs">
+    <Files>
+      <File FileName="ParcableTest/MainActivity.cs" Line="38" Column="6" />
+      <File FileName="ParcableTest/Dialogs/SearchableListDialog.cs" Line="124" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ParcableTest AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.84B7N16727000254" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
